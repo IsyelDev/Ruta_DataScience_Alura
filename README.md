@@ -1,6 +1,6 @@
 # 📊 Data Science con Python - G8 ONE
 
-Este repositorio contiene el material, apuntes y ejercicios desarrollados a lo largo del programa **Data Science con Python - G8** ofrecido por **Oracle Next Education (ONE)**. El curso cubre los fundamentos de la programación en Python aplicados al análisis de datos, modelado de bases de datos, ETL y visualización con técnicas modernas y bibliotecas de código abierto.
+Este repositorio contiene el material, apuntes y ejercicios desarrollados a lo largo del programa **Data Science con Python - G8**. El curso cubre los fundamentos de la programación en Python aplicados al análisis de datos, modelado de bases de datos, ETL y visualización con técnicas modernas y bibliotecas de código abierto.
 
 ---
 
